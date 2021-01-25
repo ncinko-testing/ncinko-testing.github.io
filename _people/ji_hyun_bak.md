@@ -11,11 +11,11 @@ avatar: jihyun.jpg
 <i class="fa fa-envelope-o"></i> `jhbak@lbl.gov`
 
 
-Current Research
+**Current Research**
 
 With the DeWeese group, I am thinking about the role of causality in the efficient coding of natural sounds. With the Bouchard group, I am working on statistical methods for making sense of neural dynamics.
 
-Bio
+**Bio**
 
 I did my undergraduate in physics at KAIST (Korea Advanced Institute of Science and Technology), and narrowed my focus to theoretical biophysics for my PhD at Princeton University. Toward the end of my PhD I also developed an interest in computational neuroscience, as I worked on adaptive stimulus selection methods for psychophysics experiments. Before moving into the Bay Area, I was a postdoc at KIAS (Korea Institute for Advanced Study) in Seoul.
 
