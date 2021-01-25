@@ -6,7 +6,7 @@ avatar: jihyun.jpg
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _PhD student, Physics at UC Berkeley_<br>
+- _Postdoctoral Scholar at UC Berkeley_<br>
 
 <i class="fa fa-envelope-o"></i> `jhbak@lbl.gov`
 
